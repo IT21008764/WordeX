@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class WordexBackendApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(WordexBackendApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(WordexBackendApplication.class, args);
+    }
 }
