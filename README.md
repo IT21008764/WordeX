@@ -44,6 +44,8 @@ The project addresses the specific needs of primary school students and supports
 - **Machine Learning**: TensorFlow (Supervised Learning, Random Forest Algorithm)
 - **Languages**: Java, Python
 - **Other Tools**: Medically-approved datasets for model training and evaluation.
+  ![image](https://github.com/user-attachments/assets/5bf67e18-f393-42bc-9bf9-e27f5c2821dc)
+
 
 ---
 
@@ -52,6 +54,8 @@ The system consists of the following components:
 1. **Data Collection and Preprocessing**: Medically approved question papers distributed to students, followed by data labeling.
 2. **ML Model Development**: Random Forest-based detection model with a training accuracy of **97.62%**.
 3. **Mobile App UI**: User-friendly design enabling easy interaction for children, parents, and educators.
+   ![image](https://github.com/user-attachments/assets/e880c4e0-3e03-40f8-a2c0-421ceb6cce93)
+
 
 ---
 
