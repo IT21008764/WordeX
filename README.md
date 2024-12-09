@@ -2,6 +2,8 @@
 # **Wordex - A Dyslexia Screening and Remediation Platform**
 
 Wordex is a mobile application designed to screen, identify, and provide targeted interventions for children aged 8-10 with dyslexia. It incorporates machine learning techniques to detect specific dyslexia types and offers interactive, syllabus-aligned activities to improve reading, writing, and spelling skills.
+![image](https://github.com/user-attachments/assets/1ce5abe4-0798-460b-bf42-dd9976e5d85a)
+
 
 ## **Table of Contents**
 - [About the Project](#about-the-project)
